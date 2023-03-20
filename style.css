@@ -1,0 +1,140 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    font-family: "Kumbh Sans", sans-serif;
+    background: linear-gradient(#b068e9 0%, #6463e7 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: #FFFFFF;
+    box-shadow: 0px 50px 50px -20px rgba(53, 18, 122, 0.497159);
+    border-radius: 23px;
+    width: 327px;
+    height: 38rem;
+}
+
+.illustration {
+    width: 237px;
+    height: 180px;
+    margin-left: 45px;
+    margin-top: -108px;
+}
+
+.illustration-box{
+    display: none;
+}
+
+.patern {
+    margin-left: 45px;
+    margin-top: -75px;
+}
+
+.faq {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39.69px;
+    color: #1E1F36;
+    text-align: center;
+    margin-top: 28px;
+}
+
+.faq-title {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16.12px;
+}
+
+.faq-title.active {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17.36px;
+    color: #1E1F36;
+  }
+
+.faq-arrow {
+    float: right;
+    margin-top: -10px;
+    
+}
+
+.faq-section {
+    width: 279px;
+    border-bottom: 1px solid #E8E8EA;
+    margin-left: 24px;
+    margin-top: 40px;
+    padding-bottom: 13px;
+}
+
+.faq-answer {
+    width: 279px;
+    display: none;
+}
+
+.faq-answer p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #787887;
+    margin-top: 13px;
+}
+
+.active .faq-question {
+    color: #1E1F36;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 16.12px;
+}
+
+
+
+@media screen and (min-width: 1440px) {
+    .container {
+        width: 920px;
+        height: 540px;
+        background-image: url(./images/illustration-woman-online-desktop.svg), url(./images/bg-pattern-desktop.svg);
+        background-repeat: no-repeat, no-repeat;
+        background-position: -15% 50%, -36rem 65%;
+    }
+    
+    .illustration {
+        display: none;
+    }
+
+    .illustration-box{
+        display: block;
+        position: absolute;
+        margin-top: 230px;
+        margin-left: -95px;
+    }
+
+    .patern {
+        display: none;
+    }
+
+    .faq{
+        margin-top: 65px;
+        margin-left: 95px;
+    }
+
+    .faq-section{
+        margin-left: 475px;
+    }
+
+    .faq-title{
+        font-size: 14px;
+        line-height: 17.36px;
+    }
+
+    .faq-answer{
+        width: 330px;
+    }
+
+    .faq-title:hover{
+        cursor: pointer;
+        color: #F47B56;
+        transition: 0.3s;
+    }
+}
