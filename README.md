@@ -2,7 +2,7 @@
 
 In this challenge, you'll be building out an FAQ accordion. This is an extremely common front-end pattern, so it's a great opportunity to get some practice in!
 
-![Logo](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/y4zn9ukalew5zbnodrjs.jpg)
+![Logo](https://res.cloudinary.com/dz209s6jk/image/upload/v1602235390/Challenges/ymtblmv8bbnpazgrfrx6.jpg)
 
 
 ## Created with
