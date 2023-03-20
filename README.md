@@ -17,7 +17,7 @@ In this challenge, you'll be building out an FAQ accordion. This is an extremely
 
 ## Resources
 
-- Challange URL: [Click here](#)
+- Challange URL: [Click here](https://www.frontendmentor.io/solutions/faq-accordion-card-R2Y52fpmW9)
 - Live Site URL: [Click here](https://lukenso.github.io/FAQ-accordion-card/)
 ## Author
 
