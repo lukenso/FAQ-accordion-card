@@ -18,7 +18,7 @@ In this challenge, you'll be building out an FAQ accordion. This is an extremely
 ## Resources
 
 - Challange URL: [Click here](#)
-- Live Site URL: [Click here](#)
+- Live Site URL: [Click here](https://lukenso.github.io/FAQ-accordion-card/)
 ## Author
 
 - LinkedIn - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
