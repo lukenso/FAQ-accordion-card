@@ -11,7 +11,7 @@ In this challenge, you'll be building out an FAQ accordion. This is an extremely
 - Responsive Design
 - JavaScript
 
-## Designed for ony two devices 
+## Designed for only two devices 
 - Mobile (375px)
 - Desktop(1440px)
 
